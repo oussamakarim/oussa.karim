@@ -34,6 +34,13 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
 .p-r {
   position: relative;
 }
